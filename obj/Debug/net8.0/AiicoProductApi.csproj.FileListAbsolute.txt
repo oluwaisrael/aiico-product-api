@@ -23,3 +23,11 @@
 /Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.pdb
 /Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.genruntimeconfig.cache
 /Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/ref/AiicoProductApi.dll
+/Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.sourcelink.json
+/Users/mac/Documents/AiicoProductApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mac/Documents/AiicoProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Documents/AiicoProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Documents/AiicoProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.csproj.AssemblyReference.cache
+/Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Documents/AiicoProductApi/obj/Debug/net8.0/AiicoProductApi.csproj.CopyComplete

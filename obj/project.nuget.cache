@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VWvX1FkvJ9bz3jjAkggJkvjdy7BijwIx04TTh5P//FYvXQy5zCy3hPREQfv9cI+4jZqJwEGVMb6Rq4ewEgzm0w==",
+  "dgSpecHash": "emFxNUOBZ/mTZ9ibr1zMslNTStCuH3VCJ9HzzIrY6mHko/a9M5pgWAlmB29sW84Gj5mJ13r+ax4e4rQZkZCIzA==",
   "success": true,
   "projectFilePath": "/Users/mac/Documents/AiicoProductApi/AiicoProductApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.extensions.apidescription.server/8.0.0/microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore/10.2.3/swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

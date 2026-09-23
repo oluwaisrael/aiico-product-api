@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiicoProductApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca45bc234469464f124169d40e7f06b22445731e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiicoProductApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiicoProductApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
