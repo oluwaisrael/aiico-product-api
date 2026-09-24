@@ -1,6 +1,37 @@
 @AiicoProductApi_HostAddress = http://localhost:5238
 
-GET {{AiicoProductApi_HostAddress}}/weatherforecast/
+### Get all products
+GET {{AiicoProductApi_HostAddress}}/api/products
 Accept: application/json
 
+### Get product by id
+GET {{AiicoProductApi_HostAddress}}/api/products/1
+Accept: application/json
+
+
+### Create product
+POST {{AiicoProductApi_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "Motor Insurance",
+  "description": "Comprehensive motor cover",
+  "price": 45000
+}
+
 ###
+
+### Update  product
+PUT {{AiicoProductApi_HostAddress}}/api/products/1
+Content-Type: application/json
+
+{
+  "name": "Motor Insurance Updated",
+  "description": "Full comprehensive motor cover",
+  "price": 52000
+}
+
+###
+
+### Delete product
+DELETE {{AiicoProductApi_HostAddress}}/api/products/1
